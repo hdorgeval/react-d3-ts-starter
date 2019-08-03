@@ -1,8 +1,7 @@
 /* eslint-disable react/prop-types */
-import { ReactElement, useEffect, useRef } from 'react';
-import React from 'react';
 import { downloadSvg } from './download-svg';
 import { renderD3 } from './render-d3';
+import React, { ReactElement, useEffect, useRef } from 'react';
 
 export interface SankeyProps {
   data: string;

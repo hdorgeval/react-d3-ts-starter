@@ -1,5 +1,5 @@
-import * as React from 'react';
 import { HelloD3 } from './diagrams/helloD3/HelloD3';
+import * as React from 'react';
 
 export interface AppProps {
   name: string;
