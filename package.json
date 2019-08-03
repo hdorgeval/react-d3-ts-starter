@@ -1,7 +1,7 @@
 {
-  "name": "react-ts-starter",
-  "version": "1.1.0",
-  "description": "React starter project with TypeScript and WebPack",
+  "name": "react-d3-ts-starter",
+  "version": "1.0.0",
+  "description": "Starter React D3 project with TypesScript and WebPack",
   "main": "index.js",
   "scripts": {
     "build": "rimraf dist && npm run format && npm run lint && webpack --config config/webpack.config.prod.ts",
